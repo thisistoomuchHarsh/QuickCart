@@ -6,7 +6,7 @@ const Footer = () => {
     <div>
       <div className="flex flex-col sm:grid grid-cols-[3fr_1fr_1fr] gap-14 my-10 mt-40 text-sm ">
         <div className="flex items-center">
-            <img className="mb-5" src={assets.logo} alt="" />
+            <img className="mb-5 w-80" src={assets.quickcart} alt="" />
         </div>
         <div>
             <p className="text-xl font-medium mb-5">COMPANY</p>
